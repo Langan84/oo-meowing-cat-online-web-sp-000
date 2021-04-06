@@ -8,4 +8,4 @@ class Cat
 end
 
 maru= Cat.new("Maru")
-Maru.name
+maru.name
