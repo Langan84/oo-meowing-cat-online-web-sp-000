@@ -7,5 +7,5 @@ class Cat
   end
 end
 
-maru= Cat.new "Maru"
+maru= Cat.new("Maru")
 Maru.name
