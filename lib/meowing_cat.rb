@@ -6,6 +6,3 @@ class Cat
     purs "meow!"
   end
 end
-
-maru= Cat.new("Maru")
-maru.name
